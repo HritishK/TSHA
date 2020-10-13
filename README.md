@@ -86,6 +86,6 @@ Please make sure to update tests as appropriate.
 License
 ----
 
-MIT
+<a href=/license.md>MIT</a>
 
 
