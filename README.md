@@ -62,16 +62,21 @@
 >In the above scenario, A Organization (university) will register with cloud services and upload the original certification of a person. 
 
 >We will sign a hash using TSHA and store it on our cloud.
+
 [![ScreenShot3](images/cloud2.png)]()
+
 >Now, if the same person applies for a job at a company. Then the company can come to our website and verify the document by uploading the same document that person provided them or can directly verify the document stored in our cloud.
 
 # How to use the algorithm and verify for collosion?
+
 >I've made a web application for demonstration of the TSHA , Implemented conversion of text to hash and file signing & verifying Functions. The web application can be found in my repository.
 
 
 ### Requirements
+
 - For checking collosion you need to have heavy computation power.
 - For using the TSHA all you need is python3 installed. 
+
 ```
  sudo apt-get install python3.6
 ```
