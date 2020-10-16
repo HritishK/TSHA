@@ -48,6 +48,7 @@
 
 # Screenshots
 [![ScreenShot4](images/CheckingCollosion.png)]()
+
 [![ScreenShot5](images/GeneratingHash.png)]()
 
 
@@ -62,7 +63,9 @@
 >In the above scenario, A Organization (university) will register with cloud services and upload the original certification of a person. 
 
 >We will sign a hash using TSHA and store it on our cloud.
+
 [![ScreenShot3](images/cloud2.png)]()
+
 >Now, if the same person applies for a job at a company. Then the company can come to our website and verify the document by uploading the same document that person provided them or can directly verify the document stored in our cloud.
 
 # How to use the algorithm and verify for collosion?
